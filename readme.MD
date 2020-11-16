@@ -2,7 +2,6 @@
 Basic shell Implementation in C:
 --------------------------------
 Karanjot Singh
-2019050
 
 -Makefile instructions-
 
