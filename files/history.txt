@@ -1,0 +1,11 @@
+echo  hello
+echo -n hola
+echo -e hola\\a
+echo  hola\\a
+echo -r ka
+cd  q1
+cd  901
+pwd 
+history 
+history -w
+
